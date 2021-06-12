@@ -14,3 +14,5 @@ https://www.facebook.com/groups/HackingTeamCyber/  Canal official de Facebook
 https://www.facebook.com/groups/HACKINGTEAMPUBLICO/  Canal publico para compartir                                                                
 Web:
 https://elrincondehackingteam.blogspot.com/
+
+Happy Hacking 
